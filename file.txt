@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Task for Index understnding
+Task for Index understnding + changes not stage for commit
